@@ -16,7 +16,7 @@ This Ruby application calculates the total sales tax and total price for items i
 ### Setup
 1. Clone the Repository:
 ```
-git clone
+git clone https://github.com/kainacrow/SUBSCRIBE_TAKE_HOME.git
 cd SUBSCRIBE_TAKE_HOME
 ```
 2. Install Dependencies (optional):
